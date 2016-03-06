@@ -1,0 +1,28 @@
+name: DreamOC
+favicon: null
+layout_spectrum: 0.5327511946670711
+typography_spectrum: 0.06495001539587975
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.82286770013161
+  lightness: 0.15199551894329488
+  saturation: 0.59384033549577
+  rhythmicContrast: 0.030257788486778736
+purpose: []
